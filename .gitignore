@@ -1,5 +1,6 @@
 .venv
 .ipynb_checkpoints
-.idea
-__pycache__
+/.idea
+/__pycache__
+.gitignore
 HousePricePrediction_ML.ipynb
