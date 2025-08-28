@@ -116,6 +116,11 @@ Installation & Running Instructions to run on your local System -
         1. Clone the repository.
         2. Install dependencies: by using(pip install -r requirements.txt)
         3. Run the training script: App.py
+		4. Make Docker Image using docker command (docker build . )
+		5. Run the Docker Image using docker command (docker run housing Price kaggle data)
+
+
+
 
 
 ### Sample Predictions

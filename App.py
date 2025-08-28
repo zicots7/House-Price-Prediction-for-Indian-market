@@ -167,11 +167,8 @@ def predict():
     result = f" ₹ {int(output)}"
     return render_template("/index.html", result=result)
 
-
 if __name__=="__main__":
-<<<<<<< HEAD
     app.run(host="0.0.0.0",port=10000)
-=======
-    app.run(debug=True,host=0.0.0.0,port=10000)
->>>>>>> 876b6dd377e8c85ca45842d2ed9e436c15f70a94
+
+
 
